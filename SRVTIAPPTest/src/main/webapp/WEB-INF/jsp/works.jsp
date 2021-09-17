@@ -41,9 +41,10 @@
 									Landmark: beside Parinayam Grand Restaurant, Mamathanagar
 									Colony, Nagole,Hyderabad Pincode:500068</p>
 
-								For More Information Contact Us and Call This Number:	<b>+91-9849295916
+							 &nbsp; &nbsp; &nbsp;For More Information Contact Us and Call This Number:	<b>+91-9849295916 &nbsp;|&nbsp;+91-9700675350
 </b>
 							</div>
+							<br>
 						</div>
 					</div>
 				</div>

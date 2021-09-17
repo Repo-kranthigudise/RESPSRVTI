@@ -10,12 +10,12 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 
 @SpringBootApplication
 //(scanBasePackages = "com.vvkt.bssvedu.*")
-public class SrvtiappApplication extends SpringBootServletInitializer {
+public class SrvtiAppTestApplication extends SpringBootServletInitializer {
 	
-private static Class applicationClass = SrvtiappApplication.class;
+private static Class<SrvtiAppTestApplication> applicationClass = SrvtiAppTestApplication.class;
 
     public static void main(String[] args) {
-        SpringApplication.run(SrvtiappApplication.class, args);
+        SpringApplication.run(SrvtiAppTestApplication.class, args);
     }
 
     @Override

@@ -18,7 +18,7 @@ a:hover {
 				<div class="fotter_text footer_text">
 					<p>© SRVTI HYD HNO:2-1-271/2,STREETNO 5 beside parinayam
 						grand resturent,mamathanagar colony,Nagole Hyderabad - 500 068,
-						Telangana, India Phone : +91-9849295916</p>
+						Telangana, India Phone : +91-9849295916&nbsp;|&nbsp;+91-9700675350</p>
 				</div>
 			</div>
 			<div class="col-md-2">

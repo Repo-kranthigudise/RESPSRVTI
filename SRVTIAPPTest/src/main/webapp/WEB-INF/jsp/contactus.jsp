@@ -69,11 +69,12 @@
 										</div>
 										<div class="col-6">
 											<p class="address_info_title">PHONE</p>
-											<p>+91-9849295916</p>
+											<p>+91-9849295916&nbsp;&amp;&nbsp;+91-9700675350</p>
 										</div>
 										<div class="col-6">
 											<p class="address_info_title">EMAIL</p>
 											<p>srvti.in@gmail.com</p>
+											
 										</div>
 										<div class="col-6">
 											<p class="address_info_title">ADRESS</p>
