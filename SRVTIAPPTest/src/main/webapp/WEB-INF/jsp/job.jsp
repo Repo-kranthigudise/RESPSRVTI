@@ -48,7 +48,7 @@
 										Landmark: beside Parinayam Grand Restaurant, Mamathanagar
 										Colony, Nagole,Hyderabad Pincode:500068</p>
 									<div >
-										<div class="contact_address table_sub_heading">SOME MORE COURSES :</div>
+										<div class="contact_address table_sub_heading">SOME MORE COURSES</div>
 									</div>
 									<table class="course">
 										<tr>

@@ -69,8 +69,10 @@
 										</div>
 										<div class="col-6">
 											<p class="address_info_title">PHONE</p>
-											<p>+91-9849295916&nbsp;&amp;&nbsp;+91-9700675350</p>
+											<p>+91-9849295916<br>+91-9700675350</p>
+											
 										</div>
+										
 										<div class="col-6">
 											<p class="address_info_title">EMAIL</p>
 											<p>srvti.in@gmail.com</p>
@@ -87,7 +89,7 @@
 								<hr />
 								<p class="location_info table_sub_heading">
 
-									<b>Office Location In Map :</b>
+									<b>Office Location In Map </b>
 								</p>
 								<div class="mapouter">
 									<div class="gmap_canvas">
